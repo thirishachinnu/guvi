@@ -1,0 +1,9 @@
+{
+    "classes": [
+      { "id": 1, "name": "Mownika", "time": "8:00 AM - 9:00 AM" },
+      { "id": 2, "name": "Hema", "time": "10:00 AM - 11:00 AM" },
+      { "id": 3, "name": "Monisha", "time": "6:00 PM - 7:00 PM" }
+    ],
+    "bookings": [],
+    "attendance": []
+  }
